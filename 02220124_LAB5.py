@@ -59,3 +59,4 @@ else:
 print("Number of comparisons:", count_r)
 
     
+
